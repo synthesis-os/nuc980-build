@@ -1,0 +1,21 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = git://git.busybox.net/buildroot
+[submodule "busybox"]
+	path = busybox
+	url = git://git.busybox.net/busybox
+[submodule "u-boot"]
+	path = u-boot
+	url = git@github.com:u-boot/u-boot
+[submodule "uclibc"]
+	path = uclibc
+	url = https://cgit.uclibc-ng.org/cgi/cgit/uclibc-ng.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:OpenNuvoton/NUC980-linux-5.10.y
+[submodule "tools/lzo"]
+	path = tools/lzo
+	url = git@github.com:synthesis-os/tools-lzo.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:openssl/openssl
